@@ -22,8 +22,8 @@ CANDLE_INTERVAL_SECONDS: int = 60  # 1 minute
 MAX_CANDLE_HISTORY: int = 500      # rolling window per symbol
 
 
-FAST_PERIOD: int = 3
-SLOW_PERIOD: int = 5
+FAST_PERIOD: int = 9
+SLOW_PERIOD: int = 21
 
 
 VARIANT_A_STOP_LOSS: float = 0.15   

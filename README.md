@@ -34,7 +34,7 @@ http://localhost:8000/docs
 ---
 ## Terminal Dashboard
 
-![Terminal Dashboard](dashboard.png)
+![Terminal Dashboard](crypto_trading_system/Screenshot%202026-03-06%20102400.png)
 # REST API Endpoints
 
 ### Latest Tick
